@@ -1,9 +1,10 @@
-# ** **
+# **Pose Detection With Computer Vision**
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
-Download Additional Files :
-• This repository consists of files required to deploy a 
+VIDEO BY: Video by <a href="https://pixabay.com/users/anant_762-6925006/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=57954">Anant Sharma</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=57954">Pixabay</a>
+
+• This repository consists of files required to deploy a Pose Detection Model
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
@@ -14,7 +15,7 @@ Download Additional Files :
 
 
 ## Deployment
-
+  1.Building & Deploying Pose Detection Model
   
 ## Installation
 
@@ -22,7 +23,10 @@ To install the libraries used in this project. Follow the
 below steps:
 
 ```bash
-
+import cv2
+import mediapipe as mp
+import numpy as mnp
+import numpy as np
 
 ```
     
