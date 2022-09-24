@@ -5,6 +5,7 @@
 VIDEO BY: Video by <a href="https://pixabay.com/users/anant_762-6925006/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=57954">Anant Sharma</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=57954">Pixabay</a>
 
 Video by <a href="https://pixabay.com/users/vimeo-free-videos-1283884/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=445">Vimeo-Free-Videos</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=video&amp;utm_content=445">Pixabay</a>
+
 • This repository consists of files required to deploy a Pose Detection Model
 
 • Please do ⭐ the repository, if it helped you in anyway.
